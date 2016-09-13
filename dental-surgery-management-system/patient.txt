@@ -1,0 +1,1 @@
+[{"phoneNumber":"123123213","address":"weewq","name":"asadasdsda","payment":[{"date":1430470539173,"amount":213131.0,"id":1}],"id":1,"procedure":[{"cost":232231.0,"name":"qweqweqweeq1111","id":2}]}]
